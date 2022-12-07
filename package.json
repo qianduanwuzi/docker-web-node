@@ -13,8 +13,8 @@
     "util": "^0.12.0"
   },
   "devDependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.15.3"
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
   },
   "engines": {
     "node": ">= 6.0.0",
